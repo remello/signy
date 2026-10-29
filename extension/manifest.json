@@ -21,6 +21,7 @@
   },
   "background": {
     "service_worker": "background/sw.js",
+    "scripts": ["background/sw.js"],
     "type": "module"
   },
   "options_page": "popup/options.html",
